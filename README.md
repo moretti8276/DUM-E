@@ -2,3 +2,4 @@ Como estamos nos teste dos mecanismos do robo dividivos os codigos em partes, co
 
 Esquema eletrico ↓↓↓
 <img width="3000" height="1735" alt="circuit_image(3)" src="https://github.com/user-attachments/assets/f2588872-18d5-47de-9eaf-66bbe706ef16" />
+https://app.cirkitdesigner.com/project/92fbc6c4-9393-437f-91bd-f82872d2368d
